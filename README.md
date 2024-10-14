@@ -1,1 +1,1 @@
-"Colorful HangMan Game using python" 
+"HangMan Game" 
